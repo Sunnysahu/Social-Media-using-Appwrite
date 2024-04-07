@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="bg-red-100">Hello Sunny!!!</div>
+      <div className="text-white">Hello Sunny!!!</div>
     </>
   );
 }
